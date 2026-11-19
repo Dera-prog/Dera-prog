@@ -23,7 +23,7 @@ I'm a UI/UX designer who builds what I design. I work from Figma through to ship
 [Live](https://neurobloom-learningsphere.vercel.app) · [Code](https://github.com/Dera-prog/neurobloom-learningsphere)
 
 **Hairs by Peniel** — storefront and mobile app for a Lagos human-hair shop and salon.
-[Web app](https://github.com/Dera-prog/hairsbypeniel) · [Mobile app](https://github.com/Dera-prog/hairsbypeniel-mobile)
+[Live site](https://hairsbypeniel-czm2.vercel.app) · [Web code](https://github.com/Dera-prog/hairsbypeniel) · [Mobile code](https://github.com/Dera-prog/hairsbypeniel-mobile)
 
 **Space Rescue** and **EcoCity** — two browser games built for start.ng: a space rescue arcade game and a 3D neighbourhood recycling game.
 [Space Rescue](https://github.com/Dera-prog/space-rescue) · [EcoCity](https://github.com/Dera-prog/ecocity-game)
