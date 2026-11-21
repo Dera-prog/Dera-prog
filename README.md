@@ -37,3 +37,4 @@ Figma · HTML/CSS · JavaScript · TypeScript · React · Next.js · Supabase ·
 B.A. (Ed.) English Education — Olabisi Onabanjo University
 Product Design — AltSchool Africa
 UI/UX Intern (Design Team Lead) — WALURE
+AI Engineering — HNG Tech
