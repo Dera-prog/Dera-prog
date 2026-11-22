@@ -32,7 +32,7 @@ I'm a UI/UX designer who builds what I design. I work from Figma through to ship
 [Live](https://myfitwellness.vercel.app) · [Code](https://github.com/Dera-prog/MyFitWellness)
 
 **She's Stylish** — luxury women's fashion storefront built from the PRD and Figma: denim, leather, Aso Oke, Adire, knitwear and corporate dresses.
-[Live](https://shes-stylish.vercel.app)
+[Live](https://shes-stylish.vercel.app) · [Code](https://github.com/Dera-prog/She-s-Stylish)
 
 **Space Rescue** and **EcoCity** — two browser games built for start.ng: a space rescue arcade game and a 3D neighbourhood recycling game.
 [Space Rescue](https://github.com/Dera-prog/space-rescue) · [EcoCity](https://github.com/Dera-prog/ecocity-game)
