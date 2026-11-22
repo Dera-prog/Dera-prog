@@ -1,6 +1,6 @@
 # Chizoba Uzoma
 
-**Design Engineer (AI Product Engineer) · Software Engineer / Developer · AI Engineer · UI/UX Designer** · Lagos, Nigeria
+**Design Engineer (AI Product Engineer) · Software Engineer / Developer · UI/UX Designer** · Lagos, Nigeria
 
 I'm a Software Engineer/Developer, AI Engineer and UI/UX Designer who builds what I design. I work from Figma through to shipping code — currently building design-led AI products with React, Next.js, TypeScript, Supabase, HTML/CSS and JavaScript.
 
