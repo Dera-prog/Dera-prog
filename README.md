@@ -1,10 +1,10 @@
 # Chizoba Uzoma
 
-**Design Engineer (AI Product Engineer)** · Lagos, Nigeria
+**Software Engineer / Developer · AI Engineer · UI/UX Designer** · Lagos, Nigeria
 
-I'm a UI/UX designer who builds what I design. I work from Figma through to shipping code — currently building design-led AI products with React, Next.js and Supabase.
+I'm a Software Engineer/Developer, AI Engineer and UI/UX Designer who builds what I design. I work from Figma through to shipping code — currently building design-led AI products with React, Next.js, TypeScript, Supabase, HTML/CSS and JavaScript.
 
-[LinkedIn](https://www.linkedin.com/in/derazobauzoma) · [Apex Finance case study](https://apex-finance-case-study.vercel.app)
+[LinkedIn](https://www.linkedin.com/in/derazobauzoma/) · [Instagram](https://www.instagram.com/chidera__uzoma/) · [GitHub](https://github.com/Dera-prog) · [Apex Finance case study](https://apex-finance-case-study.vercel.app)
 
 ---
 
